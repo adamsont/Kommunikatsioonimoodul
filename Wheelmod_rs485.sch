@@ -18876,6 +18876,30 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="102,1,121.92,33.02,GND1,GND,,,,"/>
+<approved hash="102,1,154.94,33.02,GND2,GNDA,,,,"/>
+<approved hash="102,1,121.92,48.26,GND1A,GND,,,,"/>
+<approved hash="102,1,154.94,48.26,GND2A,GNDA,,,,"/>
+<approved hash="104,1,121.92,50.8,U2,VDD1,VCC,,,"/>
+<approved hash="104,1,154.94,50.8,U2,VDD2,+5V,,,"/>
+<approved hash="104,1,241.3,78.74,U3,V+,+12V,,,"/>
+<approved hash="104,1,228.6,35.56,U3,AGND,GNDA,,,"/>
+<approved hash="104,1,241.3,35.56,U3,PGND,GNDA,,,"/>
+<approved hash="104,1,243.84,35.56,U3,PGND,GNDA,,,"/>
+<approved hash="104,1,246.38,35.56,U3,PGND,GNDA,,,"/>
+<approved hash="104,1,243.84,78.74,U3,V+,+12V,,,"/>
+<approved hash="104,1,246.38,78.74,U3,V+,+12V,,,"/>
+<approved hash="104,1,248.92,35.56,U3,PGND,GNDA,,,"/>
+<approved hash="104,1,2.54,50.8,Y1,P$2,GND,,,"/>
+<approved hash="106,1,55.88,35.56,DE,,,,,"/>
+<approved hash="207,1,213.36,53.34,FAULT_D,oc,,,,"/>
+<approved hash="207,1,154.94,38.1,FAULT_D,out,,,,"/>
+<approved hash="106,1,55.88,33.02,RE,,,,,"/>
+<approved hash="113,1,85.09,63.8217,LED1,,,,,"/>
+<approved hash="113,1,85.09,56.2017,LED2,,,,,"/>
+<approved hash="113,1,274.642,113.03,LED4,,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
