@@ -1,0 +1,95 @@
+Netlist
+
+Exported from USB_Dongle_Parem.sch at 25.08.2015 15:20:22
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+A        R6       2        2          1
+         R7       1        1          1
+         U$1      8        A          1
+         X2       6        S          1
+
+B        R7       2        2          1
+         R9       1        1          1
+         U$1      7        B          1
+         X2       5        S          1
+
+D+       IC3      8        USBDP      1
+         R3       1        1          1
+
+D-       IC3      9        USBDM      1
+         R4       1        1          1
+
+GND      C1       2        2          1
+         C2       1        1          1
+         C3       1        1          1
+         C4       1        1          1
+         C5       2        2          1
+         C6       1        1          1
+         IC3      13       GND        1
+         IC3      5        GND        1
+         R10      2        2          1
+         R9       2        2          1
+         U$1      4        GND        1
+         X1       4        GND        1
+         X2       2        S          1
+
+N$7      LED2     A        A          1
+         R1       1        1          1
+
+N$8      LED1     A        A          1
+         R2       1        1          1
+
+RXD      IC3      4        RXD        1
+         R12      1        1          1
+         U$1      2        R          1
+
+RXLED    IC3      14       CBUS1      1
+         LED2     C        C          1
+
+SA       C3       2        2          1
+         R3       2        2          1
+         X1       3        D+         1
+
+SAD      C6       2        2          1
+         R4       2        2          1
+         X1       2        D-         1
+
+TXD      IC3      1        TXD        1
+         R11      1        1          1
+         U$1      3        D          1
+
+TXLED    IC3      7        CBUS2      1
+         LED1     C        C          1
+
+VCC      C1       1        1          1
+         C2       2        2          1
+         C4       2        2          1
+         IC3      12       VCC        1
+         R1       2        2          1
+         R2       2        2          1
+         R5       1        1          1
+         R6       1        1          1
+         U$1      1        VCC        1
+         X1       1        VBUS       1
+         X2       1        S          1
+
+VCCIO    C5       1        1          1
+         IC3      10       3V3OUT     1
+         IC3      11       !RESET     1
+         IC3      3        VCCIO      1
+         R11      2        2          1
+         R12      2        2          1
+
+Y        R5       2        2          1
+         R8       1        1          1
+         U$1      5        Y          1
+         X2       3        S          1
+
+Z        R10      1        1          1
+         R8       2        2          1
+         U$1      6        Z          1
+         X2       4        S          1
+
